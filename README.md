@@ -60,18 +60,6 @@ Hi! I'm **Malar Mozhi**, a passionate software developer who enjoys building mod
 
 ---
 
-## 📁 Project Structure
-
-```text
-src/
-components/
-assets/
-pages/
-public/
-```
-
----
-
 ## ⚙️ Getting Started
 
 Clone the repository:
@@ -103,8 +91,8 @@ npm run dev
 ## 📬 Contact
 
 * GitHub: https://github.com/malarmozhi-710
-* Portfolio:[ (Add your deployed portfolio URL)](https://malar-mozhi.netlify.app/)
-* LinkedIn: [(Add your LinkedIn profile)](https://linkedin.com/in/malar-mozhi-868bbb378/)
+* Portfolio:https://malar-mozhi.netlify.app/
+* LinkedIn:https://linkedin.com/in/malar-mozhi-868bbb378/
 * Email: malarmozhi710@gmail.com
 
 ---
